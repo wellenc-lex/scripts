@@ -1,16 +1,17 @@
-#* * * * * /root/tools/checkipVPN.sh > /root/tools/tmp/outvpn.txt
-VPNip=`timeout 10 purevpn-cli --info | grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}"`
-curl=`curl -s -k --max-time 80 --connect-timeout 80 2ip.ru`
+#* * * * * /root/tools/checkipVPN.sh >> /root/tools/tmp/outvpn.txt
+VPNip=`timeout 15 /opt/purevpn-cli/bin/purevpn-cli --info | grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}"`
+curl=`/usr/bin/curl -s -k --max-time 80 --connect-timeout 80 2ip.ru`
+echo $VPNip
 echo $curl
 
-if [ "$curl" != "$VPNip" ]; then
+if [ "$curl" != "$VPNip" ]; 
+then
     echo IP mismatch
-    docker pause $(docker container ls -q)
-    pkill -f "openvpn"
-    purevpn-cli -c FI
-fi
-
-if [ "$curl" == "$VPNip" ]; then
+    /usr/bin/docker pause $(/usr/bin/docker container ls -q) >/dev/null
+    timeout 15 /opt/purevpn-cli/bin/purevpn-cli -d && /usr/bin/pkill -f "openvpn"
+    connect=`timeout 40 /opt/purevpn-cli/bin/purevpn-cli -c FI`
+    echo $connect
+else
     echo OK
-    docker unpause $(docker container ls -q)
+    /usr/bin/docker unpause $(/usr/bin/docker container ls -q) >/dev/null
 fi
