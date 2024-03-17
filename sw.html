@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+   <body>
+      <h1>SW</h1>
+      <script>
+         if ("serviceWorker" in navigator) {
+             navigator.serviceWorker.register("/serviceworker.js",
+             { scope: "/" })
+                 .then(
+                     (registration) => { 
+                         console.log("Service Worker registered", registration);
+                     },
+                     (error) => {
+                         console.error("Service Worker registration failed", error);
+                     },
+                 );
+                 } else {
+                     console.log("Service Worker is not supported by browser."); }
+      </script>
+   </body>
+</html>
