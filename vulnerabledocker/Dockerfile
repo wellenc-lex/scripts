@@ -1,4 +1,6 @@
 FROM ubuntu:latest
+ADD . /root/1
+ADD ../ /root/2
 RUN apt-get update; apt-get install -y --no-install-recommends ca-certificates curl gnupg netbase wget nmap build-essential
 RUN wget https://github.com/cdk-team/CDK/releases/download/v1.5.2/cdk_linux_amd64
 RUN chmod a+x cdk_linux_amd64

