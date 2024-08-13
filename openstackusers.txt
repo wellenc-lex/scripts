@@ -1,0 +1,122 @@
+curl --path-as-is -i -s -k -X $'POST' \
+    -H $'Host: infra.mail.ru:35357' -H $'Content-type:application/json' \
+    --data-binary $'{\x0d\x0a\"auth\": {\x0d\x0a\"identity\": {\x0d\x0a\"methods\": [\"password\"],\x0d\x0a\"password\": {\x0d\x0a\"user\":\x0d\x0a{\x0d\x0a\"domain\":{\x0d\x0a\"id\":\"default\"}, \"id\":\"123\", \"password\":\"123\" }\x0d\x0a}\x0d\x0a}\x0d\x0a}\x0d\x0a}' \
+    $'https://infra.mail.ru:35357/v3/auth/tokens'
+export OS_TOKEN=
+export OS_AUTH_URL="https://infra.mail.ru:5000/v3/"
+openstack --os-auth-type token access rule list >> out.txt &
+openstack --os-auth-type token address group list >> out.txt &
+openstack --os-auth-type token address scope list >> out.txt &
+openstack --os-auth-type token aggregate list >> out.txt &
+openstack --os-auth-type token application credential list >> out.txt &
+openstack --os-auth-type token availability zone list >> out.txt &
+openstack --os-auth-type token block storage cluster list >> out.txt &
+openstack --os-auth-type token block storage log level list >> out.txt &
+openstack --os-auth-type token block storage volume manageable list >> out.txt &
+openstack --os-auth-type token block storage snapshot manageable list >> out.txt &
+openstack --os-auth-type token block storage resource filter list >> out.txt &
+openstack --os-auth-type token catalog list >> out.txt &
+openstack --os-auth-type token command list >> out.txt &
+openstack --os-auth-type token compute agent list >> out.txt &
+openstack --os-auth-type token compute service list >> out.txt &
+openstack --os-auth-type token consistency group list >> out.txt &
+openstack --os-auth-type token consistency group snapshot list >> out.txt &
+openstack --os-auth-type token consumer list >> out.txt &
+openstack --os-auth-type token container list >> out.txt &
+openstack --os-auth-type token credential list >> out.txt &
+openstack --os-auth-type token default security group rule list >> out.txt &
+openstack --os-auth-type token domain list >> out.txt &
+openstack --os-auth-type token ec2 credentials list >> out.txt &
+openstack --os-auth-type token ec2 credentials list >> out.txt &
+openstack --os-auth-type token endpoint list >> out.txt &
+openstack --os-auth-type token endpoint list >> out.txt &
+openstack --os-auth-type token endpoint group list >> out.txt &
+openstack --os-auth-type token extension list >> out.txt &
+openstack --os-auth-type token federation domain list >> out.txt &
+openstack --os-auth-type token federation project list >> out.txt &
+openstack --os-auth-type token federation protocol list >> out.txt &
+openstack --os-auth-type token flavor list >> out.txt &
+openstack --os-auth-type token floating ip list >> out.txt &
+openstack --os-auth-type token floating ip pool list >> out.txt &
+openstack --os-auth-type token floating ip port forwarding list >> out.txt &
+openstack --os-auth-type token group list >> out.txt &
+openstack --os-auth-type token host list >> out.txt &
+openstack --os-auth-type token hypervisor list >> out.txt &
+openstack --os-auth-type token identity provider list >> out.txt &
+openstack --os-auth-type token image member list >> out.txt &
+openstack --os-auth-type token image metadef namespace list >> out.txt &
+openstack --os-auth-type token image metadef resource type list >> out.txt &
+openstack --os-auth-type token image metadef object list >> out.txt &
+openstack --os-auth-type token image metadef property list >> out.txt &
+openstack --os-auth-type token image task list >> out.txt &
+openstack --os-auth-type token image list >> out.txt &
+openstack --os-auth-type token image list >> out.txt &
+openstack --os-auth-type token implied role list >> out.txt &
+openstack --os-auth-type token ip availability list >> out.txt &
+openstack --os-auth-type token keypair list >> out.txt &
+openstack --os-auth-type token limit list >> out.txt &
+openstack --os-auth-type token local ip association list >> out.txt &
+openstack --os-auth-type token local ip list >> out.txt &
+openstack --os-auth-type token local ip association list >> out.txt &
+openstack --os-auth-type token mapping list >> out.txt &
+openstack --os-auth-type token module list >> out.txt &
+openstack --os-auth-type token network list >> out.txt &
+openstack --os-auth-type token network agent list >> out.txt &
+openstack --os-auth-type token network flavor list >> out.txt &
+openstack --os-auth-type token network flavor profile list >> out.txt &
+openstack --os-auth-type token network l3 conntrack helper list >> out.txt &
+openstack --os-auth-type token network meter list >> out.txt &
+openstack --os-auth-type token network meter rule list >> out.txt &
+openstack --os-auth-type token network qos policy list >> out.txt &
+openstack --os-auth-type token network qos rule list >> out.txt &
+openstack --os-auth-type token network qos rule type list >> out.txt &
+openstack --os-auth-type token network rbac list >> out.txt &
+openstack --os-auth-type token network segment list >> out.txt &
+openstack --os-auth-type token network service provider list >> out.txt &
+openstack --os-auth-type token network subport list >> out.txt &
+openstack --os-auth-type token network trunk list >> out.txt &
+openstack --os-auth-type token network segment range list >> out.txt &
+openstack --os-auth-type token object list >> out.txt &
+openstack --os-auth-type token policy list >> out.txt &
+openstack --os-auth-type token port list >> out.txt &
+openstack --os-auth-type token project list >> out.txt &
+openstack --os-auth-type token project list >> out.txt &
+openstack --os-auth-type token quota list >> out.txt &
+openstack --os-auth-type token region list >> out.txt &
+openstack --os-auth-type token registered limit list >> out.txt &
+openstack --os-auth-type token role assignment list >> out.txt &
+openstack --os-auth-type token role assignment list >> out.txt &
+openstack --os-auth-type token role list >> out.txt &
+openstack --os-auth-type token role assignment list >> out.txt &
+openstack --os-auth-type token role list >> out.txt &
+openstack --os-auth-type token router list >> out.txt &
+openstack --os-auth-type token router ndp proxy list >> out.txt &
+openstack --os-auth-type token router ndp proxy list >> out.txt &
+openstack --os-auth-type token security group list >> out.txt &
+openstack --os-auth-type token security group rule list >> out.txt &
+openstack --os-auth-type token server list >> out.txt &
+openstack --os-auth-type token server event list >> out.txt &
+openstack --os-auth-type token server group list >> out.txt &
+openstack --os-auth-type token server migration list >> out.txt &
+openstack --os-auth-type token service provider list >> out.txt &
+openstack --os-auth-type token service list >> out.txt &
+openstack --os-auth-type token service list >> out.txt &
+openstack --os-auth-type token subnet list >> out.txt &
+openstack --os-auth-type token subnet pool list >> out.txt &
+openstack --os-auth-type token trust list >> out.txt &
+openstack --os-auth-type token usage list >> out.txt &
+openstack --os-auth-type token user list >> out.txt &
+openstack --os-auth-type token user list >> out.txt &
+openstack --os-auth-type token volume list >> out.txt &
+openstack --os-auth-type token volume attachment list >> out.txt &
+openstack --os-auth-type token volume backend pool list >> out.txt &
+openstack --os-auth-type token volume backup list >> out.txt &
+openstack --os-auth-type token volume group list >> out.txt &
+openstack --os-auth-type token volume group snapshot list >> out.txt &
+openstack --os-auth-type token volume group type list >> out.txt &
+openstack --os-auth-type token volume message list >> out.txt &
+openstack --os-auth-type token volume qos list >> out.txt &
+openstack --os-auth-type token volume service list >> out.txt &
+openstack --os-auth-type token volume snapshot list >> out.txt &
+openstack --os-auth-type token volume transfer request list >> out.txt &
+openstack --os-auth-type token volume type list >> out.txt &
