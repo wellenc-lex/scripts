@@ -1,0 +1,20 @@
+id: x-forwarded-host-no-such-bucket
+
+info:
+  name: X-Forwarded-Host No Such Bucket Detector
+  author: your-nick
+  severity: info
+  description: |
+    Adds X-Forwarded-Host and Cookie headers, detects "no such bucket" in response.
+
+requests:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+    headers:
+      X-Forwarded-Host: not.valid.bucket
+    matchers:
+      - type: word
+        words:
+          - "NoSuchBucket"
+        part: body
